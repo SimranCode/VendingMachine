@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "30ZWGZLI/ftkBY8qxXdaPoP43xnq17xH8HG2Q+F+MX3GY3wqBt+SbFU7k/sfaHinLxFqvb/1fzHBmrlBa/u2Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simran.n\\source\\repos\\VendingMachineProject\\VendingMachineProject\\VendingMachineProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simran.n\\.nuget\\packages\\microsoft.visualstudio.unittesting\\11.0.50727.1\\microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512"
+  ],
+  "logs": []
+}

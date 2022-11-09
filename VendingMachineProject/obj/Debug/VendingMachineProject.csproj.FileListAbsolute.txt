@@ -1,0 +1,9 @@
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.AssemblyReference.cache
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe.config
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.pdb
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.CopyComplete
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.exe
+C:\Users\simran.n\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.pdb

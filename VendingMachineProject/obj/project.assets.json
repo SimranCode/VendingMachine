@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+      "sha512": "DoqQ6Zl7GcytRa1isWv20MyV1znFRDje6k/y3edbew3Qx/Z1r5Cf6rBktD7lGxN97d2VVC5RzdFHw+dci9lsMw==",
+      "type": "package",
+      "path": "microsoft.visualstudio.unittesting/11.0.50727.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "THIRD-PARTY-LICENSE.txt",
+        "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll",
+        "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml",
+        "microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512",
+        "microsoft.visualstudio.unittesting.nuspec",
+        "tools/net45/MSTest.exe",
+        "tools/net45/MSTest.exe.config"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Microsoft.VisualStudio.UnitTesting >= 11.0.50727.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\simran.n\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\simran.n\\source\\repos\\VendingMachineProject\\VendingMachineProject\\VendingMachineProject.csproj",
+      "projectName": "VendingMachineProject",
+      "projectPath": "C:\\Users\\simran.n\\source\\repos\\VendingMachineProject\\VendingMachineProject\\VendingMachineProject.csproj",
+      "packagesPath": "C:\\Users\\simran.n\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simran.n\\source\\repos\\VendingMachineProject\\VendingMachineProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\simran.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nugetrepository.s012.odessacore.local/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Microsoft.VisualStudio.UnitTesting": {
+            "target": "Package",
+            "version": "[11.0.50727.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
